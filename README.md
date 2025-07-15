@@ -16,10 +16,6 @@ This project presents an end-to-end analysis of the popular "Sample - Superstore
 
 ---
 
-## 📸 Power BI Dashboard Preview
-
-![Superstore Dashboard](reports/powerbi_dashboard.png)
-
 ---
 
 ## 📦 Dataset
