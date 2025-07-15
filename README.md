@@ -38,11 +38,6 @@ This project presents an end-to-end analysis of the popular "Sample - Superstore
 
 
 
-## 📸 Dashboard Preview
-
-![Superstore Dashboard](reports/powerbi_dashboard.png)
-
----
 
 ## 🔍 Exploratory Highlights
 
